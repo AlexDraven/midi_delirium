@@ -82,3 +82,11 @@ Es la version anterior ya testeada, no modifica notas, solo elige al azar.
 ```
 Los cables que salen de la bornera azul son el "boton"
 ```
+
+# LMMS : Audio file Processor
+Es super facil, aca lo explica muy bien.
+
+Samplear con procesador de archivos de audio
+```
+https://www.youtube.com/watch?v=tSUlX3C2h6M
+```
