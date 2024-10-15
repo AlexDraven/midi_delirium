@@ -72,4 +72,13 @@ Note off: 72
 Es la version anterior ya testeada, no modifica notas, solo elige al azar.
 
 ## Seleccion de controllador MIDI en LMMS
-![alt text](seleccion-controller-lmms.jpg "Arduino Leonardo")
+![alt text](imgs/seleccion-controller-lmms.jpg "Arduino Leonardo")
+
+## Imagenes de referencia con las conexiones
+
+![alt text](imgs/leonardo-1.jpg "Arduino Leonardo")
+![alt text](imgs/leonardo-2.jpg "Arduino Leonardo")
+![alt text](imgs/leonardo-3.jpg "Arduino Leonardo")
+```
+Los cables que salen de la bornera azul son el "boton"
+```
