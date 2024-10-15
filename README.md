@@ -69,4 +69,7 @@ Note off: 72
 ```
 
 ### Sobre el controller v2
-Es la version anterior, no modifica notas, solo elige al azar.
+Es la version anterior ya testeada, no modifica notas, solo elige al azar.
+
+## Seleccion de controllador MIDI en LMMS
+![alt text](seleccion-controller-lmms.jpg "Arduino Leonardo")
